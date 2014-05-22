@@ -8,9 +8,11 @@ public class Test {
 		System.out.println("Hello there");
 		System.out.println("How are you doing today?");
 		
+		System.out.println("That is great news!");
+
 		System.out.println("I am doing fine!");
 		
-		Test2.sayMyAge(26);
+		Test2.sayMyAge(24);
 	}
 
 }
