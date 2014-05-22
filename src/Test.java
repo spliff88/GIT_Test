@@ -9,6 +9,8 @@ public class Test {
 		System.out.println("How are you doing today?");
 		
 		System.out.println("I am doing fine");
+		
+		System.out.println("That is great news!");
 	}
 
 }
